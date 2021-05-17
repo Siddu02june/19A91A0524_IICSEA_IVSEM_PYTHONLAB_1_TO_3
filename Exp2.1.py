@@ -1,4 +1,6 @@
-#2.1)Implement a python script to compute distance between two points taking inp from the user (Pythagorean Theorem).
+'''
+2.1)Implement a python script to compute distance between two points taking inp from the user (Pythagorean Theorem).
+'''
 import math
 x1 = int(input('Enter x1: '))
 y1 = int(input('Enter y1: '))
